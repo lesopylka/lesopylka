@@ -9,7 +9,6 @@
 -  I'm in search of good people to talk about everything(in particular about programming)
 -  I really like to study and to learn something interesting, and I don't miss a single chance to do it
 -  Some useless fact about me: I'm a little lazy
--  My idol is [sakost](https://github.com/sakost)
 -  I am currently studying gamedev and I really like it.
 
 ### Languages and Tools
